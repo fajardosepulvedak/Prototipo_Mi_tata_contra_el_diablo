@@ -1,8 +1,14 @@
 # Prototipo Mi tata contra el Diablo
 Este prototipo es un diseño creado en figma de un videojuego llamado "Mi tata contra el Diablo", se diseñaron (contando con apoyo de la IA) ciertas cosas como:
 el protagonista (Mi tata), el antagonista (El Diablo), algunos enemigos, un aliado del protagonista (un perro), las armas del protagonista
-y el antagonista, escenarios y entre otras cosas.
+y el antagonista, escenarios y entre otras cosas.<br>
+Para editar o usar este contenido, necesitas descargar el archivo "Mi tata contra el diablo.fig", abrir la página web o la aplicación de figma, buscar la opción de importar y arrastrar o seleccionar el archivo.
 
+## Autores
+- Kevin Fajardo Sepulveda
+- Axel Córdova Montiel
+- Julio Ju Salido
+  
 ## Contenido
 Primero tenemos a los personajes del videojuego.
 <img width="932" height="231" alt="image" src="https://github.com/user-attachments/assets/2173cd35-de2d-4fb6-a520-23d446294c0b" />
